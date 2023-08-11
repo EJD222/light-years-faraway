@@ -1,0 +1,49 @@
+C:\Users\User\Documents\BSIT2A\DropandCatchGame\DropandCatchGame\bin\Debug\DropandCatchGame.exe.config
+C:\Users\User\Documents\BSIT2A\DropandCatchGame\DropandCatchGame\bin\Debug\DropandCatchGame.exe
+C:\Users\User\Documents\BSIT2A\DropandCatchGame\DropandCatchGame\bin\Debug\DropandCatchGame.pdb
+C:\Users\User\Documents\BSIT2A\DropandCatchGame\DropandCatchGame\obj\Debug\DropandCatchGame.csproj.AssemblyReference.cache
+C:\Users\User\Documents\BSIT2A\DropandCatchGame\DropandCatchGame\obj\Debug\DropandCatchGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\BSIT2A\DropandCatchGame\DropandCatchGame\obj\Debug\DropandCatchGame.DropAndCatchUI.resources
+C:\Users\User\Documents\BSIT2A\DropandCatchGame\DropandCatchGame\obj\Debug\DropandCatchGame.Properties.Resources.resources
+C:\Users\User\Documents\BSIT2A\DropandCatchGame\DropandCatchGame\obj\Debug\DropandCatchGame.csproj.GenerateResource.cache
+C:\Users\User\Documents\BSIT2A\DropandCatchGame\DropandCatchGame\obj\Debug\DropandCatchGame.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\BSIT2A\DropandCatchGame\DropandCatchGame\obj\Debug\DropandCatchGame.exe
+C:\Users\User\Documents\BSIT2A\DropandCatchGame\DropandCatchGame\obj\Debug\DropandCatchGame.pdb
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGame\DropandCatchGame\obj\Debug\DropAndCatchGame.csproj.AssemblyReference.cache
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGame\DropandCatchGame\obj\Debug\DropAndCatchGame.csproj.SuggestedBindingRedirects.cache
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGame\DropandCatchGame\obj\Debug\DropAndCatchGame.csproj.GenerateResource.cache
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGame\DropandCatchGame\bin\Debug\Catching Gudetama.exe.config
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGame\DropandCatchGame\bin\Debug\Catching Gudetama.exe
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGame\DropandCatchGame\bin\Debug\Catching Gudetama.pdb
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGame\DropandCatchGame\obj\Debug\DropandCatchGame.Properties.Resources.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGame\DropandCatchGame\obj\Debug\DropAndCatchGame.csproj.CoreCompileInputs.cache
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGame\DropandCatchGame\obj\Debug\Catching Gudetama.exe
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGame\DropandCatchGame\obj\Debug\Catching Gudetama.pdb
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGame\DropandCatchGame\obj\Debug\DropandCatchGame.DropAndCatchMainGame.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGame\DropandCatchGame\obj\Debug\DropandCatchGame.DropAndCatchStartGame.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\bin\Debug\Catching Gudetama.exe.config
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\bin\Debug\Catching Gudetama.exe
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\bin\Debug\Catching Gudetama.pdb
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\obj\Debug\DropAndCatchGame.csproj.AssemblyReference.cache
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\obj\Debug\DropAndCatchGame.csproj.SuggestedBindingRedirects.cache
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\obj\Debug\DropAndCatchGame.DropAndCatchMainGame.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\obj\Debug\DropAndCatchGame.DropAndCatchStartGame.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\obj\Debug\DropAndCatchGame.Properties.Resources.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\obj\Debug\DropAndCatchGame.csproj.GenerateResource.cache
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\obj\Debug\DropAndCatchGame.csproj.CoreCompileInputs.cache
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\obj\Debug\Catching Gudetama.exe
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\obj\Debug\Catching Gudetama.pdb
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\obj\Debug\DropAndCatchGame.CharacterSelection.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\obj\Debug\Catching Gudetama.exe.config
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\bin\Debug\MySql.Data.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\bin\Debug\Google.Protobuf.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\bin\Debug\ZstdNet.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\bin\Debug\BouncyCastle.Crypto.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\bin\Debug\System.Memory.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\bin\Debug\System.Buffers.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\bin\Debug\K4os.Compression.LZ4.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\bin\Debug\K4os.Hash.xxHash.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\bin\Debug\MySql.Data.xml
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\obj\Debug\DropAndCatchGame.csproj.CopyComplete
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\obj\Debug\DropAndCatchGame.Register.resources

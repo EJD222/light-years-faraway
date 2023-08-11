@@ -1,0 +1,171 @@
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\bin\Debug\MySql.Data.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\bin\Debug\Google.Protobuf.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\bin\Debug\ZstdNet.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\bin\Debug\BouncyCastle.Crypto.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\bin\Debug\System.Memory.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\bin\Debug\System.Buffers.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\bin\Debug\K4os.Compression.LZ4.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\bin\Debug\K4os.Hash.xxHash.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\bin\Debug\MySql.Data.xml
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\obj\Debug\Light-YearsAway.csproj.AssemblyReference.cache
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\obj\Debug\Light-YearsAway.csproj.SuggestedBindingRedirects.cache
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\obj\Debug\DropAndCatchGame.CharacterSelection.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\obj\Debug\DropAndCatchGame.Register.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\obj\Debug\Light-YearsAway.csproj.GenerateResource.cache
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\obj\Debug\Light-YearsAway.csproj.CoreCompileInputs.cache
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\obj\Debug\Light-YearsAway.csproj.CopyComplete
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\obj\Debug\Light-Years Away.exe.config
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\obj\Debug\SpaceGame.Properties.Resources.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\obj\Debug\DropAndCatchGame.Storyline1.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\bin\Debug\Light-Years Away.exe.config
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\bin\Debug\Light-Years Away.exe
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\bin\Debug\Light-Years Away.pdb
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\obj\Debug\Light-Years Away.exe
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\obj\Debug\Light-Years Away.pdb
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\obj\Debug\SpaceGame.FindTheItemsGame.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\obj\Debug\SpaceGame.Storyline2.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\obj\Debug\SpaceGame.Storyline3.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\obj\Debug\DropAndCatchGame.DropAndCatchGame.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\obj\Debug\SpaceGame.BackToEarth.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\C#\DropAndCatchGameFinalTerm\DropandCatchGame\obj\Debug\DropAndCatchGame.Login.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\bin\Debug\MySql.Data.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\bin\Debug\Google.Protobuf.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\bin\Debug\ZstdNet.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\bin\Debug\BouncyCastle.Crypto.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\bin\Debug\System.Memory.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\bin\Debug\System.Buffers.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\bin\Debug\K4os.Compression.LZ4.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\bin\Debug\K4os.Hash.xxHash.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\bin\Debug\MySql.Data.xml
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\obj\Debug\Light-YearsAway.csproj.AssemblyReference.cache
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\obj\Debug\Light-YearsAway.csproj.SuggestedBindingRedirects.cache
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\obj\Debug\SpaceGame.About.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\obj\Debug\DropAndCatchGame.CharacterSelection.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\obj\Debug\DropAndCatchGame.DropAndCatchGame.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\obj\Debug\SpaceGame.BackToEarth.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\obj\Debug\SpaceGame.FindTheItemsGame.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\obj\Debug\DropAndCatchGame.LogIn.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\obj\Debug\SpaceGame.MainMenu.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\obj\Debug\SpaceGame.Properties.Resources.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\obj\Debug\SpaceGame.MazeGame.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\obj\Debug\DropAndCatchGame.SignUp.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\obj\Debug\DropAndCatchGame.Storyline1.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\obj\Debug\SpaceGame.Storyline2.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\obj\Debug\SpaceGame.Storyline3.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\obj\Debug\Light-YearsAway.csproj.GenerateResource.cache
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\obj\Debug\Light-YearsAway.csproj.CoreCompileInputs.cache
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\obj\Debug\Light-YearsAway.csproj.CopyComplete
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\obj\Debug\SpaceGame.Light.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\bin\Debug\Light-YearsFaraway.exe.config
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\bin\Debug\Light-YearsFaraway.exe
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\bin\Debug\Light-YearsFaraway.pdb
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\obj\Debug\Light-YearsFaraway.exe.config
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\obj\Debug\Light-YearsFaraway.exe
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\DropandCatchGame\obj\Debug\Light-YearsFaraway.pdb
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\bin\Debug\Light-YearsFaraway.exe.config
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\bin\Debug\Light-YearsFaraway.exe
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\bin\Debug\Light-YearsFaraway.pdb
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\bin\Debug\MySql.Data.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\bin\Debug\Google.Protobuf.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\bin\Debug\ZstdNet.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\bin\Debug\BouncyCastle.Crypto.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\bin\Debug\System.Memory.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\bin\Debug\System.Buffers.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\bin\Debug\K4os.Compression.LZ4.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\bin\Debug\K4os.Hash.xxHash.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\bin\Debug\MySql.Data.xml
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\obj\Debug\Light-YearsAway.csproj.AssemblyReference.cache
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\obj\Debug\Light-YearsAway.csproj.SuggestedBindingRedirects.cache
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\obj\Debug\Light-YearsFaraway.exe.config
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\obj\Debug\SpaceGame.About.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\obj\Debug\SpaceGame.CharacterSelection.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\obj\Debug\SpaceGame.DropAndCatchGame.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\obj\Debug\SpaceGame.BackToEarth.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\obj\Debug\SpaceGame.FindTheItemsGame.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\obj\Debug\SpaceGame.LogIn.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\obj\Debug\SpaceGame.MainMenu.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\obj\Debug\SpaceGame.Properties.Resources.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\obj\Debug\SpaceGame.MazeGame.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\obj\Debug\SpaceGame.SignUp.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\obj\Debug\SpaceGame.Storyline1.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\obj\Debug\SpaceGame.Storyline2.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\obj\Debug\SpaceGame.Storyline3.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\obj\Debug\SpaceGame.Light.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\obj\Debug\Light-YearsAway.csproj.GenerateResource.cache
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\obj\Debug\Light-YearsAway.csproj.CoreCompileInputs.cache
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\obj\Debug\Light-YearsAway.csproj.CopyComplete
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\obj\Debug\Light-YearsFaraway.exe
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\DropandCatchGame\obj\Debug\Light-YearsFaraway.pdb
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\bin\Debug\Light-YearsFaraway.exe.config
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\bin\Debug\Light-YearsFaraway.exe
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\bin\Debug\Light-YearsFaraway.pdb
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\bin\Debug\MySql.Data.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\bin\Debug\Google.Protobuf.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\bin\Debug\ZstdNet.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\bin\Debug\BouncyCastle.Crypto.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\bin\Debug\System.Memory.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\bin\Debug\System.Buffers.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\bin\Debug\K4os.Compression.LZ4.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\bin\Debug\K4os.Hash.xxHash.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\bin\Debug\MySql.Data.xml
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\obj\Debug\Light-YearsAway.csproj.AssemblyReference.cache
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\obj\Debug\Light-YearsAway.csproj.SuggestedBindingRedirects.cache
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\obj\Debug\Light-YearsFaraway.exe.config
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\obj\Debug\SpaceGame.About.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\obj\Debug\SpaceGame.CharacterSelection.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\obj\Debug\SpaceGame.LogIn.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\obj\Debug\SpaceGame.MainMenu.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\obj\Debug\SpaceGame.Properties.Resources.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\obj\Debug\SpaceGame.SignUp.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\obj\Debug\SpaceGame.Storyline1.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\obj\Debug\SpaceGame.Storyline2.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\obj\Debug\SpaceGame.Storyline3.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\obj\Debug\Light-YearsAway.csproj.GenerateResource.cache
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\obj\Debug\Light-YearsAway.csproj.CoreCompileInputs.cache
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\obj\Debug\Light-YearsAway.csproj.CopyComplete
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\obj\Debug\Light-YearsFaraway.exe
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\obj\Debug\Light-YearsFaraway.pdb
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\obj\Debug\SpaceGame.FallingStarsGame.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\obj\Debug\SpaceGame.BackToEarthPage.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\obj\Debug\SpaceGame.LostInSpaceGame.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\obj\Debug\SpaceGame.BackToEarthGame.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Backup\Light-YearsFaraway\SpaceGame\obj\Debug\SpaceGame.Storyline4.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\bin\Debug\Light-YearsFaraway.exe.config
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\bin\Debug\Light-YearsFaraway.exe
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\bin\Debug\Light-YearsFaraway.pdb
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\bin\Debug\MySql.Data.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\bin\Debug\Google.Protobuf.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\bin\Debug\ZstdNet.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\bin\Debug\BouncyCastle.Crypto.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\bin\Debug\System.Memory.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\bin\Debug\System.Buffers.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\bin\Debug\K4os.Compression.LZ4.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\bin\Debug\K4os.Hash.xxHash.dll
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\bin\Debug\MySql.Data.xml
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\obj\Debug\Light-YearsAway.csproj.AssemblyReference.cache
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\obj\Debug\Light-YearsAway.csproj.SuggestedBindingRedirects.cache
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\obj\Debug\Light-YearsFaraway.exe.config
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\obj\Debug\SpaceGame.About.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\obj\Debug\SpaceGame.CharacterSelection.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\obj\Debug\SpaceGame.FallingStarsGame.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\obj\Debug\SpaceGame.BackToEarthPage.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\obj\Debug\SpaceGame.LostInSpaceGame.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\obj\Debug\SpaceGame.LogIn.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\obj\Debug\SpaceGame.MainMenu.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\obj\Debug\SpaceGame.Properties.Resources.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\obj\Debug\SpaceGame.BackToEarthGame.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\obj\Debug\SpaceGame.SignUp.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\obj\Debug\SpaceGame.Storyline1.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\obj\Debug\SpaceGame.Storyline2.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\obj\Debug\SpaceGame.Storyline3.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\obj\Debug\SpaceGame.Storyline4.resources
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\obj\Debug\Light-YearsAway.csproj.GenerateResource.cache
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\obj\Debug\Light-YearsAway.csproj.CoreCompileInputs.cache
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\obj\Debug\Light-YearsAway.csproj.CopyComplete
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\obj\Debug\Light-YearsFaraway.exe
+D:\PC\Study Smart, not Hard\College - AUF\2nd Year College (BSIT-2-A)\1st Semester\OOP10\LAB\Final Project\Light-YearsFaraway\SpaceGame\obj\Debug\Light-YearsFaraway.pdb

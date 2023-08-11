@@ -1,7 +1,7 @@
 # Light-Years Faraway 👨‍🚀👩‍🚀
 Light-Years Faraway follows the adventure of three Astronauts (Minx, Ire, and Xenon) from the Outer Space and back to Earth. It is a space-themed game application created using C# and Visual Studio Code. It has Log In and Sign Up Pages, Main Menu, Storylines (with Guides), 3 Games (Lost In Space, Falling Stars, and Back To Earth), Character Selection, and an Ending Page.  
 
-As part of the OOP10 course at Angeles University Foundation, this project served as a final requirement.
+This project served as a final requirement for the OOP10 course (BSIT, Year 2) at Angeles University Foundation.
 
 ## Installation 💻
 This project has a MySQL Database.
